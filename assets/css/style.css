@@ -1314,6 +1314,6 @@ section {
 .project2{
   height: 300px;
   width: 500px;
-  background-image: url("/google.screenshot.png");
+  background-image: url("https://github.com/greeshma002/PersonalWebsite/blob/master/google.screenshot.png?raw=true");
   background-size: cover;
 }
