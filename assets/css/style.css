@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/new.jpg") top right;
+  background: url("https://github.com/greeshma002/PersonalWebsite/blob/master/new.jpg?raw=true") top right;
   background-size: cover;
 }
 
